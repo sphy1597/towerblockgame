@@ -1,6 +1,6 @@
 # Tower block game
 
-play to mouse click and spacebar
+play to mouse click and spacebar, clap sound
 
 
 마우스 클릭과 스페이바로 웹상에서 플레이 가능한 블록쌓기 게임
@@ -9,3 +9,5 @@ play to mouse click and spacebar
 다만 인식률이 조금 떨어짐
 
 
+
+https://github.com/Ukioo/Tower-blocks-game 게임원본 링크
